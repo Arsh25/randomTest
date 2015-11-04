@@ -5,7 +5,7 @@
 
 #! /bin/bash
 
-function checkMake
+checkMake()
 	{
 		if [ $? -ne 0 ]
 		then

@@ -26,7 +26,7 @@ else
 		echo "Compiling firmware and flashing uno"
 		$result=$(make uno 2>&1)
 		checkMake result uno
-	elif [ "$1" ==  "mega"] #We have a Mega connected 
+	elif [ "$1" ==  "mega" ] #We have a Mega connected 
 	then
 		echo "Compiling firmware and flashing mega"
 		$result=$(make mega 2>&1)

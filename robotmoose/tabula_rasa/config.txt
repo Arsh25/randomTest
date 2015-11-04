@@ -1,0 +1,8 @@
+robot=test/demo
+superstar=http://robotmoose.com
+#baudrate=57600
+#marker=
+#trim=1.0
+#debug=
+#delay_ms=10
+#sim=false
